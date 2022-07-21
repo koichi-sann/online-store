@@ -1,7 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
-import { render } from 'react-dom'
 import { HashRouter, Route, Routes } from 'react-router-dom'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
